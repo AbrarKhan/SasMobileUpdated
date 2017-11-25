@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sasmobile.productservices.ProductDescriptionFragment">
+
+    <include
+        layout="@layout/fragment_header"
+        android:id="@+id/include" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_marginTop="20dp"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:src="@drawable/ic_launcher"
+        android:id="@+id/imageEvent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_below="@+id/include"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        app:civ_border_width="4dp"
+        app:civ_border_color="#f10404" />
+
+    <TextView
+        android:id="@+id/event_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="event_name"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:textStyle="bold|italic"
+        android:layout_marginBottom="75dp"
+        android:layout_alignBottom="@+id/imageEvent"
+        android:layout_toRightOf="@+id/imageEvent"
+        android:layout_toEndOf="@+id/imageEvent" />
+
+    <TextView
+        android:id="@+id/event_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="event desc"
+        android:layout_marginTop="35dp"
+        android:textStyle="bold|italic"
+        android:layout_below="@+id/imageEvent"
+        android:layout_alignLeft="@+id/imageEvent"
+        android:layout_alignStart="@+id/imageEvent" />
+
+
+</RelativeLayout>

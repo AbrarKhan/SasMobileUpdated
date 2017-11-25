@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:minHeight="50dp"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:background="@drawable/home_menu_tile"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:maxHeight="80dp"
+    android:layout_margin="2dp">
+
+    <ImageView
+        android:id="@+id/iv"
+        android:src="@android:drawable/ic_menu_camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/home_element_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="I am header"
+        android:textSize="23dp"
+        android:layout_marginTop="7dp" />
+</LinearLayout>

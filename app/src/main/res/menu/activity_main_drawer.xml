@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_feature1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:icon="@drawable/home_sm_ic"
+            android:title="@string/home" />
+    </group>
+
+    <group
+        android:id="@+id/group_feature2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:icon="@drawable/gallery_sm_ic"
+            android:title="@string/gallery" />
+    </group>
+    <group
+        android:id="@+id/group_feature3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contact"
+
+            android:icon="@drawable/contacts_sm_ic"
+            android:title="@string/contact" />
+    </group>
+    <group
+        android:id="@+id/group_feature4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_us"
+
+            android:icon="@drawable/about_us_sm_ic"
+            android:title="@string/about" />
+    </group>
+    <group
+        android:id="@+id/group_feature5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_app"
+
+            android:icon="@drawable/if_phone_115698"
+            android:title="@string/aboutApp" />
+    </group>
+</menu>

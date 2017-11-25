@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_elements">
+        <item>Services</item>
+        <item>Apps Zone</item>
+        <item>Achievement</item>
+        <item>Announcements</item>
+    </string-array>
+
+    <string-array name="product_names">
+        <item>ITA TENDERS</item>
+        <item>AVAILABLE JOBS</item>
+        <item>UPCOMING EVENTS</item>
+        <item>ePAYMENT GATEWAYS</item>
+        <item>OMAN NATIONAL CERT</item>
+        <item>CARRIERS</item>
+        <item>GREEN INITIATIVE</item>
+        <item>BUSINESS AND APRTNERS</item>
+        <item>BOARD OF DIRECTORS</item>
+        <item>OMAN HEAD OF BOARD</item>
+        <item>CITIZENS </item>
+        <item>MEDIA CENTRE</item>
+    </string-array>
+
+    <string-array name="product_desc">
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+        </item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+        <item>If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.
+            If your website or mobile app allows users to create content and make that
+content public to other users, a Content section will inform users that they
+own the rights to the content they have created.</item>
+    </string-array>
+    <integer-array name="random_imgs">
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+        <item>@drawable/eoman_logo_sm</item>
+    </integer-array>
+
+
+    <string-array name="event_names">
+        <item>e.oman App</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+        <item>App Name</item>
+    </string-array>
+
+    <string-array name="events_desc">
+        <item>Government Apps Store</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+        <item>App Detail</item>
+
+    </string-array>
+
+    <string-array name="contact_names">
+        <item>Kranthi Kumar</item>
+        <item>Abrar</item>
+        <item>Kranthi Kumar</item>
+        <item>Abrar</item>
+        <item>Kranthi Kumar</item>
+        <item>Abrar</item>
+        <item>Kranthi Kumar</item>
+        <item>Abrar</item>
+    </string-array>
+
+    <string-array name="contact_phone">
+        <item>(+968)95305769</item>
+        <item>(+968)95305611</item>
+        <item>(+968)95305769</item>
+        <item>(+968)95305611</item>
+        <item>(+968)95305769</item>
+        <item>(+968)95305611</item>
+        <item>(+968)95305769</item>
+        <item>(+968)95305611</item>
+    </string-array>
+
+    <string-array name="contact_email">
+        <item>abcd@gmail.com</item>
+        <item>abedfa@gmail.com</item>
+        <item>abcd@gmail.com</item>
+        <item>abedfa@gmail.com</item>
+        <item>abcd@gmail.com</item>
+        <item>abedfa@gmail.com</item>
+        <item>abcd@gmail.com</item>
+        <item>abedfa@gmail.com</item>
+    </string-array>
+
+    <string-array name="contact_address">
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+        <item>Oman,Muscat</item>
+    </string-array>
+
+    <string-array name="career_names">
+        <item>Manager - Sales Marketing </item>
+        <item>Mobile App Trainer</item>
+    </string-array>
+
+    <string-array name="career_phone">
+        <item>7-10</item>
+        <item>10-12</item>
+    </string-array>
+
+    <string-array name="career_email">
+        <item>Sales Management, Sales Manager, Marketing, Marketing Manager, B2B, B2C, property developer</item>
+        <item>Sales Management, Sales Manager, Marketing, Marketing Manager, B2B, B2C, property developer</item>
+    </string-array>
+
+    <string-array name="career_address">
+        <item>Kom4</item>
+        <item>Alkhuwair</item>
+    </string-array>
+
+    <string-array name="achievements_names">
+        <item>Total number of Omanis trained in TT</item>
+        <item>Total number of on job programme trainees</item>
+        <item>Total numbers of students trained by fast track </item>
+        <item>Total numbers of Employment generated</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+        <item>Total numbers of Companies registered</item>
+    </string-array>
+    <string-array name="announcements_names">
+        <item>Mobility Training(Registration is closed)</item>
+        <item>Fast Track Training(Registration is closed)</item>
+        <item>Events </item>
+
+    </string-array>
+
+    <string-array name="news_desc">
+        <item>NewsDesc1</item>
+        <item>NewsDesc2</item>
+        <item>NewsDesc3</item>
+        <item>NewsDesc4</item>
+        <item>NewsDesc5</item>
+        <item>NewsDesc6</item>
+        <item>NewsDesc7</item>
+        <item>NewsDesc8</item>
+        <item>NewsDesc9</item>
+        <item>NewsDesc10</item>
+        <item>NewsDesc11</item>
+        <item>NewsDesc12</item>
+    </string-array>
+
+
+</resources>

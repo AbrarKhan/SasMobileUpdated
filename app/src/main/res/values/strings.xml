@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SasMobile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_buy">Buy</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_about">About</string>
+    <string name="nav_contact_us">Contact us</string>
+    <string name="tutorial_finish">Finish</string>
+    <string name="tutorial_next">Next</string>
+    <string name="section_format">section</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="events_list">Events</string>
+    <string name="service_header">Services</string>
+    <string name="events_desc">Event Details</string>
+    <string name="product_desc">Product Details</string>
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="contact">Contacts</string>
+    <string name="about">About Us</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="contacts_list">Contacts</string>
+    <string name="career_list">Careers</string>
+    <string name="product_list"><![CDATA[Product & Services]]></string>
+    <string name="accept">Accept</string>
+    <string name="accept_terms_and_conditions">Accept terms and conditions</string>
+    <string name="years"><![CDATA[ \u0020Years]]></string>
+    <string name="aboutApp">About App</string>
+    <string name="vision">ITA works with a vision to transform the Sultanate of Oman into a sustainable Knowledge Society by leveraging Information and Communication Technologies to enhance government services, enrich businesses and empower individuals.</string>
+    <string name="mission">Information Technology Authority (ITA) is pioneering the implementation of eOman. eOman comprises of a wide range of initiatives and services that are designed and created to improve the efficiency </string>
+    <string name="about_app">Gateway to all you need to know about   SAS for mobile Apps Development</string>
+
+</resources>

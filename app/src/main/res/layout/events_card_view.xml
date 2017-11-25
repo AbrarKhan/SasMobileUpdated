@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:minHeight="@dimen/product_min_height"
+    android:background="@drawable/events_item_border"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:layout_margin="@dimen/global_spacing">
+
+    <ImageView
+        android:id="@+id/event_image"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/eoman_logo_sm" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp">
+
+        <TextView
+            android:id="@+id/event_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:text="I am name"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@color/header_color" />
+
+        <TextView
+            android:id="@+id/event_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+
+            android:gravity="left"
+            android:text="I am desc" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/download"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:drawableLeft="@drawable/android_ic"
+                android:background="@drawable/download_btn"
+                android:text="DOWNLOAD"
+                android:drawablePadding="8dp"
+                android:textColor="@color/white"
+                android:layout_marginTop="15dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"/>
+
+            <TextView
+                android:textAllCaps="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/share"
+                android:text="Share"
+                android:paddingLeft="8dp"
+                android:paddingRight="23dp"
+                android:drawableLeft="@drawable/share_ic"
+                android:background="@drawable/download_btn"
+                android:drawablePadding="8dp"
+                android:textColor="@color/white"
+                android:layout_marginTop="15dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:layout_marginLeft="10dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

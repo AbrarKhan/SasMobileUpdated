@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sasmobile.productservices.ProductDescriptionFragment">
+
+    <include
+        layout="@layout/fragment_header"
+        android:id="@+id/include" />
+
+    <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_marginTop="20dp"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:src="@drawable/ic_launcher"
+        android:id="@+id/imageProduct"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_below="@+id/include"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        app:civ_border_width="4dp"
+        app:civ_border_color="#f20303" />
+
+    <TextView
+        android:id="@+id/product_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="product name"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp"
+        android:textStyle="bold|italic"
+        android:layout_marginBottom="65dp"
+        android:layout_alignBottom="@+id/imageProduct"
+        android:layout_toRightOf="@+id/imageProduct"
+        android:layout_toEndOf="@+id/imageProduct" />
+
+    <TextView
+        android:id="@+id/product_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="product desc"
+        android:layout_below="@+id/imageProduct"
+        android:layout_alignLeft="@+id/imageProduct"
+        android:layout_alignStart="@+id/imageProduct"
+        android:layout_marginTop="38dp"
+        android:textStyle="bold|italic" />
+
+
+</RelativeLayout>
